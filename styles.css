@@ -1,0 +1,43 @@
+h1 {
+    color:red;
+}
+
+ul {
+    border: 5px dashed;
+    text-align: center;
+    list-style: none;
+    padding-left: 0%;
+    width: 50;
+    margin: auto; 
+}
+
+ul il {
+    border: 3px outset;
+    display: inline-block;
+}
+
+ul li {
+    border: 3px outset;
+
+
+    display: inline-block;
+}
+
+img {
+    display: block;
+    width: 50%;
+    margin:auto;
+}
+
+#pic1 {
+    margin:auto;
+}
+
+
+#pic2 {
+    margin:auto;
+}
+
+#pic3 {
+    margin:auto;
+}
